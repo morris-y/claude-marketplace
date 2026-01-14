@@ -11,7 +11,7 @@
       "description": "Trading strategy lifecycle skills with postmortem compliance (plan, develop, review, optimize)",
       "version": "1.0.0",
       "source": {
-        "type": "github",
+        "source": "github",
         "repo": "morris-y/blueprint-skills"
       },
       "author": {
