@@ -6,7 +6,7 @@ Personal plugin marketplace for Claude Code.
 
 | Plugin | Description | Version |
 |--------|-------------|---------|
-| [blueprint-skills](https://github.com/morris-y/blueprint-skills) | Trading strategy lifecycle skills with postmortem compliance | 1.0.3 |
+| [blueprint-skills](https://github.com/morris-y/blueprint-skills) | Trading strategy lifecycle skills with postmortem compliance | 1.0.4 |
 
 ## Installation
 
